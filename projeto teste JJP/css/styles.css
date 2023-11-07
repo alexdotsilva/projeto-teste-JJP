@@ -1,0 +1,14 @@
+.img_custom{
+    background-image: url(/media/bg-jjp.jpg);
+    background-size: cover;
+    padding: 10rem;
+}
+
+.custom-nav{
+    background-color: transparent;
+}
+
+.lista-rodape{
+    list-style: none;
+}
+
